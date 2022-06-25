@@ -5,15 +5,17 @@
       <map>
         <entry key="app/src/main/res/drawable/bg.xml" value="0.1615" />
         <entry key="app/src/main/res/font/font.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout-land/fragment_configuration.xml" value="0.35765765765765767" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
         <entry key="app/src/main/res/layout/configuracion_toolbar.xml" value="0.2" />
         <entry key="app/src/main/res/layout/favoritor_toolbar.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_categoria.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/fragment_configuration.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_categoria.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_configuration.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_favoritos.xml" value="0.33" />
         <entry key="app/src/main/res/layout/include_no_favorite.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/test.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/tet.xml" value="0.20572916666666666" />
         <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
       </map>
     </option>

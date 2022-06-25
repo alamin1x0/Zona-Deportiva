@@ -26,8 +26,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/palette"
                 app:tint="@color/greenwhite" />
 
@@ -40,10 +40,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Team oscuro"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -51,6 +51,7 @@
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
                     android:text="Mejor para la vista y la duracion de i bateria."
+                    android:textColor="@color/subtitile"
                     android:textSize="15sp" />
 
             </LinearLayout>
@@ -68,8 +69,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/menu"
                 app:tint="@color/greenwhite" />
 
@@ -82,10 +83,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Canal de visualizacion"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -93,6 +94,7 @@
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
                     android:text="Lista"
+                    android:textColor="@color/subtitile"
                     android:textSize="15sp" />
 
             </LinearLayout>
@@ -110,8 +112,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/categories"
                 app:tint="@color/greenwhite" />
 
@@ -124,11 +126,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Categoria de visualizacion"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -136,13 +137,12 @@
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
                     android:text="Cuadricula (3 columnas)"
+                    android:textColor="@color/subtitile"
                     android:textSize="15sp" />
 
             </LinearLayout>
 
-
         </LinearLayout>
-
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -154,8 +154,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/play_button"
                 app:tint="@color/greenwhite" />
 
@@ -168,11 +168,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
                     android:text="Mode de reproductor"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -180,10 +178,10 @@
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
                     android:text="Vertical"
+                    android:textColor="@color/subtitile"
                     android:textSize="15sp" />
 
             </LinearLayout>
-
 
         </LinearLayout>
 
@@ -198,8 +196,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/lock"
                 app:tint="@color/greenwhite" />
 
@@ -212,17 +210,17 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Politica de privacidd"
                     android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textSize="20sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
+                    android:textColor="@color/subtitile"
                     android:text="Terminos y politicas de la applicacion"
                     android:textSize="15sp" />
 
@@ -241,8 +239,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/edit"
                 app:tint="@color/greenwhite" />
 
@@ -255,11 +253,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Calificanos"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -267,6 +264,7 @@
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
                     android:text="Deja"
+                    android:textColor="@color/subtitile"
                     android:textSize="15sp" />
 
             </LinearLayout>
@@ -284,8 +282,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/telegram"
                 app:tint="@color/greenwhite" />
 
@@ -298,17 +296,17 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Unete al Grupo de Telegram"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
+                    android:textColor="@color/subtitile"
                     android:text="Actualizacioness y ultimas noticias"
                     android:textSize="15sp" />
 
@@ -328,8 +326,8 @@
 
 
             <ImageView
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:src="@drawable/info"
                 app:tint="@color/greenwhite" />
 
@@ -342,17 +340,17 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:fontFamily="@font/bold"
+                    android:fontFamily="@font/regular"
                     android:text="Acerca de"
-                    android:textColor="@color/themecolor"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:fontFamily="@font/regular"
+                    android:textColor="@color/subtitile"
                     android:text="Informacion de la aplicacion, version de compilacion, derechos de autor"
                     android:textSize="15sp" />
 
@@ -360,6 +358,19 @@
 
         </LinearLayout>
 
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+        </com.google.android.gms.ads.AdView>
+
     </LinearLayout>
+
+
 
 </ScrollView>
